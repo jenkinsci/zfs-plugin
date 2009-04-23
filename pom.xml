@@ -13,7 +13,7 @@
   <packaging>hpi</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Hudson ZFS plugin</name>
-  <url>http://hudson.gotdns.com/wiki/display/HUDSON/ZFS+plugin</url>
+  <url>http://wiki.hudson-ci.org/display/HUDSON/ZFS+plugin</url>
 
   <repositories>
     <repository>
