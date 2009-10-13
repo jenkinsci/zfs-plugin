@@ -1,5 +1,6 @@
 package hudson.plugins.zfs;
 
+import hudson.Extension;
 import hudson.model.ManagementLink;
 
 /**
@@ -7,6 +8,7 @@ import hudson.model.ManagementLink;
  *
  * @author Kohsuke Kawaguchi
  */
+@Extension
 public class BackupManager extends ManagementLink {
     public String getIconFileName() {
         // TODO
